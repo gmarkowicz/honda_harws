@@ -1,0 +1,2 @@
+* text=auto !eol
+db_structure/db.sql -text
