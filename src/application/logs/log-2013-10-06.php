@@ -1,0 +1,73 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2013-10-06 01:06:51 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 01:08:22 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 01:08:26 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 01:08:27 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 01:08:28 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 01:08:29 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 01:08:30 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 01:08:31 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 01:08:32 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 01:08:33 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 01:08:34 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 01:08:35 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 01:24:41 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 01:24:44 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 01:24:45 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 01:24:46 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 01:24:47 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 01:24:48 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 01:35:40 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 01:48:02 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 01:48:09 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 01:48:11 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 01:48:12 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 01:48:13 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 01:48:14 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 01:48:15 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 01:48:16 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 02:01:22 --> 404 Page Not Found --> concesionario/imagenes - Referer was not set or emptyIP address was 66.249.73.37
+ERROR - 2013-10-06 02:35:42 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 02:37:51 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 02:41:19 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 02:41:21 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 02:41:22 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 02:41:23 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 02:41:24 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 02:41:25 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 03:26:01 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 03:30:53 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 03:31:20 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 03:56:58 --> 404 Page Not Found --> robots.txt - Referer was not set or emptyIP address was 157.55.32.149
+ERROR - 2013-10-06 04:06:49 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 04:14:53 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 04:25:32 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 04:34:40 --> 404 Page Not Found --> concesionario/codigo_radio_abm.php - Referer was not set or emptyIP address was 157.55.32.54
+ERROR - 2013-10-06 04:39:54 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 04:44:43 --> 404 Page Not Found --> robots.txt - Referer was not set or emptyIP address was 66.249.73.37
+ERROR - 2013-10-06 05:06:54 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 05:07:22 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 05:35:15 --> 404 Page Not Found --> robots.txt - Referer was not set or emptyIP address was 157.55.32.149
+ERROR - 2013-10-06 05:39:14 --> 404 Page Not Found --> concesionario/codigo_radio_abm.php - Referer was not set or emptyIP address was 157.55.32.149
+ERROR - 2013-10-06 05:40:03 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 06:08:56 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 06:10:43 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 07:03:18 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 08:36:37 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 08:38:31 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 12:51:06 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 14:17:04 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 14:18:50 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 14:35:39 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 16:41:11 --> 404 Page Not Found --> robots.txt - Referer was not set or emptyIP address was 66.249.75.105
+ERROR - 2013-10-06 18:11:27 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 18:36:31 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 18:55:04 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 19:01:21 --> 404 Page Not Found --> concesionario/imagenes - Referer was not set or emptyIP address was 66.249.75.105
+ERROR - 2013-10-06 20:33:49 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 23:07:05 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-10-06 23:18:09 --> Severity: Notice  --> Undefined index: Recepcionista /home/harws/harws.com/application/controllers/encuesta_tsi/index.php 115
+ERROR - 2013-10-06 23:18:09 --> Severity: Notice  --> Undefined index: Recepcionista /home/harws/harws.com/application/controllers/encuesta_tsi/index.php 116
+ERROR - 2013-10-06 23:18:09 --> Severity: Notice  --> Undefined index: Tecnico /home/harws/harws.com/application/controllers/encuesta_tsi/index.php 119
+ERROR - 2013-10-06 23:18:09 --> Severity: Notice  --> Undefined index: Tecnico /home/harws/harws.com/application/controllers/encuesta_tsi/index.php 120

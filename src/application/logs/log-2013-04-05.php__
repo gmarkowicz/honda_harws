@@ -1,0 +1,121 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2013-04-05 12:00:33 --> Severity: Notice  --> Undefined index: provincia_id /home/harws/harws.com/application/controllers/concesionario/ajax.php 290
+ERROR - 2013-04-05 12:00:33 --> Severity: Notice  --> Undefined variable: cliente_conformidad_id /home/harws/harws.com/application/views/backend/cliente_sucursal_abm_inc_view.php 117
+ERROR - 2013-04-05 12:02:29 --> Severity: Warning  --> filemtime(): stat failed for tsi-main-friday-5th-of-april-2013-12-02-29-c35697bfa5216b483712ad3abe34f200.xls /home/harws/harws.com/system/libraries/Zip.php 91
+ERROR - 2013-04-05 12:05:52 --> 
+line: 152
+file: /home/harws/harws.com/application/libraries/backend.php
+error: intentando acceder a seccion sin permisos
+ID_SECCION: 3026
+admin id: 785
+funcion: edit
+clase: tsi_encuesta_seguimiento_abm
+_GET:
+	 no se encontraron datos
+_POST:
+	 no se encontraron datos
+_SERVER:
+	 REDIRECT_STATUS: 	 200
+	 HTTP_HOST: 	 www.harws.com
+	 HTTP_USER_AGENT: 	 Mozilla/5.0 (Windows NT 5.1; rv:6.0.2) Gecko/20100101 Firefox/6.0.2
+	 HTTP_ACCEPT: 	 text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+	 HTTP_ACCEPT_LANGUAGE: 	 es-ar,es;q=0.8,en-us;q=0.5,en;q=0.3
+	 HTTP_ACCEPT_ENCODING: 	 gzip, deflate
+	 HTTP_ACCEPT_CHARSET: 	 ISO-8859-1,utf-8;q=0.7,*;q=0.7
+	 HTTP_REFERER: 	 http://www.harws.com/concesionario/tsi_encuesta_seguimiento_abm/add
+	 HTTP_COOKIE: 	 PHPSESSID=fijpuhfdl7i3lp47a94spoohd1
+	 HTTP_CONNECTION: 	 Keep-Alive
+	 PATH: 	 /usr/local/bin:/usr/bin:/bin
+	 SERVER_SIGNATURE: 	 <address>Apache/2.2.16 (Debian) Server at www.harws.com Port 80</address>
+
+	 SERVER_SOFTWARE: 	 Apache/2.2.16 (Debian)
+	 SERVER_NAME: 	 www.harws.com
+	 SERVER_ADDR: 	 10.138.192.219
+	 SERVER_PORT: 	 80
+	 REMOTE_ADDR: 	 201.251.59.244
+	 DOCUMENT_ROOT: 	 /home/harws/harws.com
+	 SERVER_ADMIN: 	 [no address given]
+	 SCRIPT_FILENAME: 	 /home/harws/harws.com/index.php
+	 REMOTE_PORT: 	 29315
+	 REDIRECT_URL: 	 /concesionario/tsi_encuesta_seguimiento_abm/edit/358826
+	 GATEWAY_INTERFACE: 	 CGI/1.1
+	 SERVER_PROTOCOL: 	 HTTP/1.1
+	 REQUEST_METHOD: 	 GET
+	 QUERY_STRING: 	 
+	 REQUEST_URI: 	 /concesionario/tsi_encuesta_seguimiento_abm/edit/358826
+	 SCRIPT_NAME: 	 /index.php
+	 PATH_INFO: 	 /concesionario/tsi_encuesta_seguimiento_abm/edit/358826
+	 PATH_TRANSLATED: 	 redirect:/index.php/concesionario/tsi_encuesta_seguimiento_abm/edit/358826/tsi_encuesta_seguimiento_abm/edit/358826
+	 PHP_SELF: 	 /index.php/concesionario/tsi_encuesta_seguimiento_abm/edit/358826
+	 REQUEST_TIME: 	 1365174351
+_SESSION:
+	 regenerated: 	 1365174351
+	 backend_login: 	 1
+	 admin_id: 	 785
+	 admin_field_usuario: 	 nlobos@kaeri
+	 admin_field_nombre: 	 Nadia Edith
+	 admin_field_apellido: 	 Lobos
+	 admin_field_email: 	 nadia.lobos@kaeri.com.ar
+	 sucursal_id: 	 268
+	 sucursal_field_desc: 	 KAERI
+	 empresa_field_desc: 	 KAERI
+	 admin_field_fechahora_ultimo_login: 	 5 de Abril de 2013 10:17:16
+	 admin_field_super_admin: 	 
+	 show_tsi_tih: 	 
+	 permisos: 	 Array
+	 show_unidad_codigo_interno: 	 
+	 show_cliente_codigo_interno: 	 
+	 sucursales: 	 Array
+	 sortname_tsi_encuesta_seguimiento_main: 	 id
+	 sortorder_tsi_encuesta_seguimiento_main: 	 DESC
+	 last_add_tsi_encuesta_seguimiento_abm: 	 358825
+	 last_tsi_encuesta_seguimiento_abm: 	 358825
+	 element: 	 Array
+	 flash:new:permisos_insuficientes: 	 1
+_____________
+
+ERROR - 2013-04-05 12:06:41 --> 404 Page Not Found --> concesionario/tsi_alta_main.php - Referer was not set or emptyIP address was 186.153.136.154
+ERROR - 2013-04-05 12:08:57 --> Severity: Notice  --> Undefined index: provincia_id /home/harws/harws.com/application/controllers/concesionario/ajax.php 290
+ERROR - 2013-04-05 12:08:57 --> Severity: Notice  --> Undefined variable: cliente_conformidad_id /home/harws/harws.com/application/views/backend/cliente_sucursal_abm_inc_view.php 117
+ERROR - 2013-04-05 12:09:18 --> 404 Page Not Found --> concesionario/tsi_alta_main.php - Referer was not set or emptyIP address was 186.153.146.82
+ERROR - 2013-04-05 12:09:22 --> Severity: Warning  --> filemtime(): stat failed for tsi-main-friday-5th-of-april-2013-12-09-22-a570f6635d2f53bfe337f3388b6a5ec0.xls /home/harws/harws.com/system/libraries/Zip.php 91
+ERROR - 2013-04-05 12:09:49 --> 404 Page Not Found --> concesionario/unidades_gral_listado_main.php - Referer was not set or emptyIP address was 190.137.210.35
+ERROR - 2013-04-05 12:10:03 --> Severity: Warning  --> filemtime(): stat failed for tsi-main-friday-5th-of-april-2013-12-10-03-6802f2b953d2e7a88c03b9411a7af938.xls /home/harws/harws.com/system/libraries/Zip.php 91
+ERROR - 2013-04-05 12:10:03 --> 404 Page Not Found --> concesionario/unidades_gral_listado_main.php - Referer was not set or emptyIP address was 190.137.210.35
+ERROR - 2013-04-05 12:10:28 --> 404 Page Not Found --> concesionario/unidades_gral_listado_print.php - Referer was not set or emptyIP address was 190.137.210.35
+ERROR - 2013-04-05 12:12:17 --> Severity: Notice  --> Undefined index: provincia_id /home/harws/harws.com/application/controllers/concesionario/ajax.php 290
+ERROR - 2013-04-05 12:12:17 --> Severity: Notice  --> Undefined variable: cliente_conformidad_id /home/harws/harws.com/application/views/backend/cliente_sucursal_abm_inc_view.php 117
+ERROR - 2013-04-05 12:12:29 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-04-05 12:12:32 --> Severity: Notice  --> Undefined index: provincia_id /home/harws/harws.com/application/controllers/concesionario/ajax.php 290
+ERROR - 2013-04-05 12:12:32 --> Severity: Notice  --> Undefined variable: cliente_conformidad_id /home/harws/harws.com/application/views/backend/cliente_sucursal_abm_inc_view.php 117
+ERROR - 2013-04-05 12:13:34 --> Severity: Warning  --> filemtime(): stat failed for unidad-historico-main-friday-5th-of-april-2013-12-13-34-8af4b7b1c5ede20f87e57c9e8dd0dd60.xls /home/harws/harws.com/system/libraries/Zip.php 91
+ERROR - 2013-04-05 12:13:37 --> Severity: Notice  --> Undefined index: Unidad_Estado_Garantia /home/harws/harws.com/application/controllers/concesionario/reclamo_garantia_abm.php 279
+ERROR - 2013-04-05 12:16:09 --> Severity: Notice  --> Undefined index: provincia_id /home/harws/harws.com/application/controllers/concesionario/ajax.php 290
+ERROR - 2013-04-05 12:16:09 --> Severity: Notice  --> Undefined variable: cliente_conformidad_id /home/harws/harws.com/application/views/backend/cliente_sucursal_abm_inc_view.php 117
+ERROR - 2013-04-05 12:16:27 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-04-05 12:18:41 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-04-05 12:20:08 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-04-05 12:21:12 --> Severity: Notice  --> Undefined index: provincia_id /home/harws/harws.com/application/controllers/concesionario/ajax.php 290
+ERROR - 2013-04-05 12:21:12 --> Severity: Notice  --> Undefined variable: cliente_conformidad_id /home/harws/harws.com/application/views/backend/cliente_sucursal_abm_inc_view.php 117
+ERROR - 2013-04-05 12:23:42 --> Severity: Notice  --> Undefined index: provincia_id /home/harws/harws.com/application/controllers/concesionario/ajax.php 290
+ERROR - 2013-04-05 12:23:42 --> Severity: Notice  --> Undefined variable: cliente_conformidad_id /home/harws/harws.com/application/views/backend/cliente_sucursal_abm_inc_view.php 117
+ERROR - 2013-04-05 12:24:38 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-04-05 12:25:22 --> 404 Page Not Found --> concesionario/index.php - Referer was not set or emptyIP address was 24.232.200.68
+ERROR - 2013-04-05 12:25:43 --> 404 Page Not Found --> concesionario/index.php - Referer was not set or emptyIP address was 24.232.200.68
+ERROR - 2013-04-05 12:25:51 --> 404 Page Not Found --> concesionario/tsi_alta.php - Referer was not set or emptyIP address was 200.85.120.74
+ERROR - 2013-04-05 12:27:05 --> Severity: Notice  --> Undefined index: provincia_id /home/harws/harws.com/application/controllers/concesionario/ajax.php 290
+ERROR - 2013-04-05 12:27:05 --> Severity: Notice  --> Undefined variable: cliente_conformidad_id /home/harws/harws.com/application/views/backend/cliente_sucursal_abm_inc_view.php 117
+ERROR - 2013-04-05 12:27:07 --> Severity: Warning  --> filemtime(): stat failed for tsi-main-friday-5th-of-april-2013-12-27-07-a11b8fcdc31a724f10dde12570ce7dec.xls /home/harws/harws.com/system/libraries/Zip.php 91
+ERROR - 2013-04-05 12:27:48 --> Severity: Notice  --> Undefined index: ciudad_id /home/harws/harws.com/application/controllers/concesionario/tsi_abm.php 921
+ERROR - 2013-04-05 12:29:24 --> 404 Page Not Found --> concesionario/tsi_alta_main.php - Referer was not set or emptyIP address was 200.85.120.74
+ERROR - 2013-04-05 12:31:16 --> Severity: Warning  --> filemtime(): stat failed for tsi-main-friday-5th-of-april-2013-12-31-16-bd5e26d7d9c740f8b5b0545e92318873.xls /home/harws/harws.com/system/libraries/Zip.php 91
+ERROR - 2013-04-05 12:32:27 --> Severity: Notice  --> Undefined index: ciudad_id /home/harws/harws.com/application/controllers/concesionario/tsi_abm.php 921
+ERROR - 2013-04-05 12:33:09 --> Severity: Notice  --> Undefined index: ciudad_id /home/harws/harws.com/application/controllers/concesionario/tsi_abm.php 921
+ERROR - 2013-04-05 12:35:35 --> 404 Page Not Found --> concesionario/index.php - Referer was not set or emptyIP address was 190.191.97.127
+ERROR - 2013-04-05 12:35:36 --> 404 Page Not Found --> concesionario/index.php - Referer was not set or emptyIP address was 190.191.97.127
+ERROR - 2013-04-05 12:36:10 --> Severity: Notice  --> Undefined index: ciudad_id /home/harws/harws.com/application/controllers/concesionario/tsi_abm.php 921
+ERROR - 2013-04-05 12:40:00 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2013-04-05 12:40:59 --> Severity: Notice  --> Undefined index: provincia_id /home/harws/harws.com/application/controllers/concesionario/ajax.php 290
+ERROR - 2013-04-05 12:40:59 --> Severity: Notice  --> Undefined variable: cliente_conformidad_id /home/harws/harws.com/application/views/backend/cliente_sucursal_abm_inc_view.php 117
+ERROR - 2013-04-05 12:44:03 --> 404 Page Not Found --> concesionario/tsi_registro_listado_main.php - Referer was not set or emptyIP address was 200.16.128.154

@@ -1,0 +1,60 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-01-01 00:10:02 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2014-01-01 00:57:55 --> 404 Page Not Found --> HNAP1 - Referer was http://190.221.169.201/IP address was 190.106.17.19
+ERROR - 2014-01-01 02:31:44 --> 404 Page Not Found --> robots.txt - Referer was not set or emptyIP address was 5.255.253.78
+ERROR - 2014-01-01 02:42:19 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2014-01-01 02:53:09 --> 404 Page Not Found --> concesionario/imagenes - Referer was not set or emptyIP address was 5.255.253.78
+ERROR - 2014-01-01 03:14:34 --> 404 Page Not Found --> concesionario/imagenes - Referer was not set or emptyIP address was 5.255.253.78
+ERROR - 2014-01-01 03:35:59 --> 404 Page Not Found --> concesionario/imagenes - Referer was not set or emptyIP address was 5.255.253.78
+ERROR - 2014-01-01 03:57:23 --> 404 Page Not Found --> concesionario/imagenes - Referer was not set or emptyIP address was 5.255.253.78
+ERROR - 2014-01-01 04:18:48 --> 404 Page Not Found --> concesionario/imagenes - Referer was not set or emptyIP address was 5.255.253.78
+ERROR - 2014-01-01 04:40:13 --> 404 Page Not Found --> concesionario/imagenes - Referer was not set or emptyIP address was 5.255.253.78
+ERROR - 2014-01-01 05:22:38 --> 404 Page Not Found --> concesionario/imagenes - Referer was not set or emptyIP address was 5.255.253.78
+ERROR - 2014-01-01 05:35:06 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2014-01-01 06:05:03 --> 404 Page Not Found --> concesionario/imagenes - Referer was not set or emptyIP address was 5.255.253.78
+ERROR - 2014-01-01 06:47:28 --> 404 Page Not Found --> concesionario/imagenes - Referer was not set or emptyIP address was 5.255.253.78
+ERROR - 2014-01-01 07:29:52 --> 404 Page Not Found --> concesionario/imagenes - Referer was not set or emptyIP address was 5.255.253.78
+ERROR - 2014-01-01 08:58:53 --> 404 Page Not Found --> concesionario/imagenes - Referer was not set or emptyIP address was 5.255.253.78
+ERROR - 2014-01-01 09:09:38 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2014-01-01 09:25:15 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2014-01-01 09:58:23 --> 404 Page Not Found --> HNAP1 - Referer was http://190.221.169.201/IP address was 178.162.104.183
+ERROR - 2014-01-01 09:58:59 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2014-01-01 10:26:11 --> 404 Page Not Found --> robots.txt - Referer was not set or emptyIP address was 157.56.93.150
+ERROR - 2014-01-01 10:39:50 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2014-01-01 11:07:15 --> 404 Page Not Found --> concesionario/imagenes - Referer was not set or emptyIP address was 5.255.253.78
+ERROR - 2014-01-01 13:14:13 --> 404 Page Not Found --> robots.txt - Referer was not set or emptyIP address was 157.55.36.38
+ERROR - 2014-01-01 14:27:06 --> Severity: Notice  --> Undefined index: ciudad_id /home/harws/harws.com/application/controllers/concesionario/tarjeta_garantia_abm.php 852
+ERROR - 2014-01-01 15:29:51 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2014-01-01 15:46:57 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2014-01-01 15:46:57 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2014-01-01 17:11:14 --> 404 Page Not Found --> robots.txt - Referer was not set or emptyIP address was 157.56.229.185
+ERROR - 2014-01-01 17:16:05 --> 404 Page Not Found --> concesionario/tsi_encuesta_seguimiento_alta.php - Referer was not set or emptyIP address was 157.56.229.185
+ERROR - 2014-01-01 18:41:32 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2014-01-01 19:13:17 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2014-01-01 19:35:33 --> 404 Page Not Found --> cgi-bin - Referer was not set or emptyIP address was 72.29.244.117
+ERROR - 2014-01-01 19:35:34 --> 404 Page Not Found --> cgi-bin - Referer was not set or emptyIP address was 72.29.244.117
+ERROR - 2014-01-01 19:35:34 --> 404 Page Not Found --> cgi-bin - Referer was not set or emptyIP address was 72.29.244.117
+ERROR - 2014-01-01 19:35:35 --> 404 Page Not Found --> cgi-bin - Referer was not set or emptyIP address was 72.29.244.117
+ERROR - 2014-01-01 19:35:35 --> 404 Page Not Found --> cgi-bin - Referer was not set or emptyIP address was 72.29.244.117
+ERROR - 2014-01-01 19:48:24 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2014-01-01 19:58:06 --> 404 Page Not Found --> cgi-bin - Referer was not set or emptyIP address was 144.76.176.115
+ERROR - 2014-01-01 19:58:07 --> 404 Page Not Found --> cgi-bin - Referer was not set or emptyIP address was 144.76.176.115
+ERROR - 2014-01-01 19:58:07 --> 404 Page Not Found --> cgi-bin - Referer was not set or emptyIP address was 144.76.176.115
+ERROR - 2014-01-01 19:58:08 --> 404 Page Not Found --> cgi-bin - Referer was not set or emptyIP address was 144.76.176.115
+ERROR - 2014-01-01 19:58:09 --> 404 Page Not Found --> cgi-bin - Referer was not set or emptyIP address was 144.76.176.115
+ERROR - 2014-01-01 20:05:46 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2014-01-01 20:08:33 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2014-01-01 20:08:33 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2014-01-01 20:18:05 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2014-01-01 20:29:48 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2014-01-01 20:29:48 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2014-01-01 20:48:42 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2014-01-01 20:48:42 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2014-01-01 21:53:45 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2014-01-01 21:53:45 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2014-01-01 22:48:21 --> 404 Page Not Found --> robots.txt - Referer was not set or emptyIP address was 157.55.35.87
+ERROR - 2014-01-01 23:30:40 --> 404 Page Not Found --> cgi-bin - Referer was not set or emptyIP address was 93.174.93.181
+ERROR - 2014-01-01 23:45:28 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2014-01-01 23:45:28 --> 404 Page Not Found --> tmp - Referer was not set or emptyIP address was 200.49.152.10
+ERROR - 2014-01-01 23:58:02 --> 404 Page Not Found --> concesionario/tsi_encuesta_seguimiento_alta_main.php - Referer was not set or emptyIP address was 157.55.32.190

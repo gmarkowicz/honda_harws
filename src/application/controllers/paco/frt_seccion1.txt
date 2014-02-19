@@ -1,0 +1,251 @@
+4J 010RADIO, ECUALIZADOR Y REPRODUCTOR DE CD
+4J 011ALTAVOZ CENTRAL
+4J 012ALTAVOZ FRONTAL, IZQUIERDO Y DERECHO
+4J 013 ALTAVOZ TRASERO, IZQUIERDO Y DERECHO
+4J 014 TWEETER
+4J 015ANTENA
+4J 016rEPISA DE TECHO
+4J 017REPISA DE BAUL
+4J 018LONA DE FONDEO
+4J 019FOCO/LENTE LUZ ANTINIEBLA
+4J 021PARAGOLPES FRONTAL
+4J 021PARAGOLPES TRASERO
+4J 023PROTECCIÓN/BURLETE DE BORDE DE PUERTA
+4J 024CALENTADOR DE BLOQUE MOTOR
+4J 025LLANTA IZQUIERDA FRONTAL
+4J 026LLANTA DERECHA FRONTAL
+4J 027LLANTA IZQUIERDA TRASERA
+4J 028LLANTA DERECHA TRASERA
+4J 029ALFOMBRAS DE PISO
+4J 030ESPEJO RETROVISOR
+4J 031GUARDA FANGO
+4J 040VISOR DE TECHO SOLAR                                                                                      
+4J 041PERSIANAS
+4J 042APOYA BRAZO DE CONSOLA CENTRAL 
+4J 043COBERTOR DE BATERÍA                                                                                   
+4J 044PORTA BASO
+4J 045TRABA RUEDAS
+4J 046FUNDA/CAPA PROTECTORA                                                                         
+4J 048FUNDA DE CAPOT                                                                                        
+4J 050SISTEMA DE SEGURIDAD
+4J 052TELEFONO CELULAR
+4J 053NAVEGADOR
+4J 054CONTROL REMOTO APERTURA PORTON DE GARAGE                                                                               
+4J 080RECUPERACIÓN DTC
+4J 081REPROGRAMACIÓN
+4J 090EVALUACIÓN DE MANEJO (ACCESORIO)
+4J 110MOTOR SUPERIOR
+4J 111MOTOR INFERIOR
+4J 112SOPORTE DE MOTOR
+4J 113BOMBA DE AGUA
+4J 114RADIADOR
+4J 115ELECTRO VENTILADOR
+4J 116ENCENDIDO
+4J 117DISTRIBUIDOR
+4J 118ALTERNADOR
+4J 119COMBUSTIBLE DE MOTOR
+4J 120EMISIONES
+4J 121INYECCIÓN DE COMBUSTIBLE
+4J 122EVALUACIÓN DE EMISIONES
+4J 123EVALUACIÓN DE EMISIONES F.I.                                                                                  
+4J 124MODULO DE CONTROL DEL MECANISMO DE TRANSMISIÓN                                                                           
+4J 125MODULO DE CONTROL DEL MECANISMO DE TRANSMISIÓN(2)                                                                           
+4J 180RECUPERACIÓN DTC                                                                                  
+4J 181REPROGRAMACIÓN
+4J 190EVALUACIÓN DE MANEJO (MOTOR)                                                                                 
+4J 210EMBRAGUE                                                                                       
+4J 211EMBRAGUE HIDRAULICO                                                                                       
+4J 212CONTROLES DE CAMBIO - MANUAL                                                                             
+4J 213TRANSMISION MANUAL                                                                               
+4J 214CABLE DE CAMBIO - AUTO                                                                                  
+4J 215PALANCA SELECTORA - AUTO                                                                               
+4J 216CABLE DE ACELERADOR - AUTO                                                                               
+4J 218TRANSMISION AUTOMATICA                                                                             
+4J 219DIFERENCIAL Y TRANSMISIONES                                                                         
+4J 220TRANSFERERENCIA                                                                                     
+4J 222SOLENOIDE LINEAL                                                                                     
+4J 223PCM-PROGRAMA                                                                                         
+4J 230COJINETE                                                                                       
+4J 231ENGRANAJE, EJE                                                                                       
+4J 232HYDRO                                                                                               
+4J 280RECUPERACIÓN DE DTC                                                                                   
+4J 281REPROGRAMACIÓN                                                                                   
+4J 290EVALUACIÓN DE MANEJO (TRANSMISION Y DIFFERENCIAL)                                                          
+4J 305FILTRO DE COMBUSTIBLE TRASERO                                                                                  
+4J 306FILTRO DE COMBUSTIBLE DELANTERO                                                                                
+4J 310COMBUSTIBLE                                                                   
+4J 311ESCAPE                                                                                      
+4J 380RECUPERACIÓN DE DTC                                                                                  
+4J 381REPROGRAMACIÓN                                                                                      
+4J 390EVALUACIÓN DE MANEJO (COMBUSTIBLE Y ESCAPE)                                                                       
+4J 410FRENOS DELANTEROS                                                                                
+4J 411FRENOS TRASEROS                                                                                      
+4J 412RENOS DE ESTACIONAMIENTO
+4J 413CILINDRO MAESTRO Y REFUERZO                                                                     
+4J 414AMORTIGUADOR DELANTERO                                                                                  
+4J 415RODAMIENTOS RUEDA DELANTERA                                                                           
+4J 416BUJES Y BARRA ESTABILIZADORA FRONTAL                                                              
+4J 417AMORTIGUADOR TRASERO                                                                            
+4J 418RODAMIENTOS TRASEROS                                                                                  
+4J 419COJINETES DEL EJE TRASERO Y EL ESTABILIZADOR                                                                  
+4J 421RUEDAS Y NEUMÁTICOS                                                                                
+4J 431ALINEACIÓN DE RUEDAS                                                                                   
+4J 435MANTENIMIENTO                                                                                      
+4J 480RECUPERACIÓN DTC                                                                                   
+4J 481REPROGRAMACION                                                                                   
+4J 490EVALUACIÓN DE MANEJO (CHASIS)                                                                                
+4J 510COLUMNA DE DIRECCIÓN                                                                                    
+4J 511CAJA DE DIRECCIÓN MANUAL                                                                          
+4J 512BOMBA DE DIRECCIÓN ASISTIDA                                                                                 
+4J 513CAJA DE DIRECCIÓN ASISTIDA                                                                          
+4J 514DIRECCION TRASERA                                                                                      
+4J 580RECUPERACION DTC                                                                                      
+4J 581REPROGRAMACION                                                                                     
+4J 590EVALUACIÓN DE MANEJO (DIRECCION)                                                                               
+4J 610CONTROL DE CALEFACCIÓN                                                                                  
+4J 611NUCLEO DEL CALENTADOR                                                                                        
+4J 612MOTOR DEL VENTILADOR                                                                                       
+4J 613CALENTADOR DE PUERTAS/VALVULAS                                                                                 
+4J 614COMPRESOR DE AIRE ACONDICIONADO                                                                         
+4J 615EVAPORADOR DE AIRE ACONDICIONADO                                                                 
+4J 616CONDENSADOR DE AIRE ACONDICIONADO                                                                       
+4J 617VENTILADOR DEL CONDENSADOR DEL CLIMATZADOR                                                                  
+4J 618CONTROLES DEL AIRE ACONDICIONADO                                                                       
+4J 619CONTROL DE VELOCIDAD DE RALENTÍ
+4J 620RECARGA DE AIRE ACONDICIONADO                                                                          
+4J 621UNIDAD DE CONTROL DE EVALUACIÓN                                                                                  
+4J 680RECUPERACIÓN DE DTC                                                                                  
+4J 681REPROGRAMACION                                                                                     
+4J 690EVALUACIÓN DE MANEJO (CALEFACCION Y AIRE ACOND.)                                                                        
+4J 710BATERIA                                                                                         
+4J 711BOCINA                                                                                          
+4J 712FAROS Y FAROS RETRACTORES                                                                
+4J 713LUCES DE SEGURIDAD                                                                                  
+4J 714LUZ DE FRENO Y LUZ DE FRENO SUPERIOR                                                             
+4J 715LUZ DE CORTESIA O LUZ DE TECHO                                                                    
+4J 716LUZ DEL PANEL DE INSTRUMENTOS                                                                           
+4J 717SEÑAL DE GIRO DELATERA                                                                            
+4J 718SEÑAL DE GIRO TRASERA                                                                                  
+4J 719LUZ DE CHAPA PATENTE                                                                             
+4J 720LUCES MARCADORAS LATERALES                                                                               
+4J 721LUZ DE BAUL                                                                                   
+4J 722INTERRUPTOR DE INTENSIDAD DE LUZ
+4j 723INTERRUPTOR DE REFRIGERACION DE TEMPERATURA E INTERRUPTOR DE PRESION DE ACEITE
+4J 724ENCENDIDO DE LUZ INTERIOR DE PUERTA                                                                          
+4J 725ENCENDIDO DE IGNICION                                                                                 
+4J 726ENCENDIDO DE FRENO DE ESTACIONAMIENTO                                                                               
+4J 727ENCENDIDO TECHO SOLAR Y ENCENDIDO DESEMPAÑADOR TRASERO                                                           
+4J 728ENCENDIDO LUZ DE GIRO
+4J 729MOTOR DE TECHO SOLAR
+4J 730RELAY
+4J 731VELOCIMETRO
+4J 732TACOMETRO
+4J 733RELOJ
+4J 734CALIBRADOR DE COMBUSTIBLE/TEMPERATURA
+4J 735ENCENDEDOR
+4J 736DISPLAY DE FALLA
+4J 737MAZO DE CABLES
+4J 738CONTROL CRUCERO
+4J 739VERIFICACION DEL CONTROL CRUCERO
+4J 740MOTOR LIMPIAPARABRISAS DELANTERO
+4J 741MOTOR LIMPIAPARABRISAS TRASERO
+4J 742SISTEMA LAVAPARABRISAS DELANTERO Y TRASERO
+4J 743BLOQUEO DE PALANCA DE CAMBIO AUTOMATICO
+4J 744ENCENDIDO DE ELEVAPARABRISAS
+4J 743EVALUACION ELECTRICA
+4J 746ENCENDIDO INTEGRADO                                                                          
+4J 747CAJA DE FUSIBLES                                                                           
+4J 748SEGUROS ELECTRICOS                                                                              
+4J 749MOTOR DE ASIENTO                                                                                          
+4J 751UNIDAD SRS                                                                                       
+4J 752SRS                                                                                                 
+4J 753CARRETE DE CABLE SRS                                                                                   
+4J 754SRS DE PASAJERO                                                                                  
+4J 756ASISTENCIA ON STAR                                                                                             
+4J 780RECUPERACION DE DTC                                                                                     
+4J 781REPROGRAMACION                                                                                     
+4J 790EVALUACION DE MANEJO (ELECTRICA)                                                                             
+4J 800PROGRAMA DE MANTENIMIENTO                                                                            
+4J 810PARAGOLPES FRONTAL
+4J 811PARAGOLPES TRASERO
+4J 812CAMPANA Y CABLE DE PRENSA                                                                          
+4J 813PARRILLA Y DEFENSAS                                                                                
+4J 814TECHO SOLAR/LUNAR                                                                         
+4J 815PUERTA DELANTERA IZQUIERDA                                                                                  
+4J 816PUERTA DELANTERA DERECHA                                                                                
+4J 817TRABA PUERTAS                                                                                          
+4J 818MANIJA DE PUERTA DELANTERA IZQUIERDA                                                                              
+4J 819MANIJA DE PUERTA DELANTERA DERECHA                                                                           
+4J 820ESPEJOS  EXTERIORES 
+4J 821PUERTA IZQUIERDA TRASERA                                                                                    
+4J 822PUERTA DERECHA TRASERA                                                                                  
+4J 823COMPARTIMENTO TRASERO                                                                                  
+4J 824MOLDURA DE VENTANAS                                                                                  
+4J 825MOLDURAS LATERALES DE CUERPO                                                                             
+4J 826VIDRIO Y COMPONENTES DE PUERTA DELANTERA IZQUIERDA
+4J 827VIDRIO Y COMPONENTES DE PUERTA DELANTERA DERECHA
+4J 828ESPEJO RETROVISOR                                                                              
+4J 829VIDRIO Y COMPONENTES DE PUERTA TRASERA IZQUIERDA
+4J 830VIDRIO Y COMPONENTES DE PUERTA TRASERA DERECHA
+4J 831PARABRISAS                                                                                         
+4J 832LUNETA TRASERA                                                                                   
+4J 833CUARTO DE VIDRIO DE VENTANA IZQUIERDA                                                                          
+4J 834CUARTO DE VIDRIO DE VENTANA DERECHA                                                                      
+4J 835BURLETE PUERTA DELANTERA IZQUIERDA
+4J 836BURLETE PUERTA DELANTERA DERECHA
+4J 837BURLETE PUERTA TRASERA IZQUIERDA
+4J 838BURLETE PUERTA TRASERA DERECHA
+4J 839BURLETE DE COMPARTIMENTO TRASERO                                                                        
+4J 840PARASOLES                                                                                        
+4J 841PANEL DE INSTRUMENTO                                                                                    
+4J 842TAPICERIA INTERIOR DE TECHO                                                                                           
+4J 843EMBELLECEDOR DE PUERTA DELANTERA IZQUIERDA
+4J 844EMBELLECEDOR DE PUERTA DELANTERA DERECHA
+4J 845EMBELLECEDOR DE PUERTA TRASERA IZQUIERDA
+4J 846EMBELLECEDOR DE PUERTA TRASERA DERECHA
+4J 847ALFOMBRA Y MOLDURAS                                                                          
+4J 848EMBELLECEDOR DE PILAR                                                                                     
+4J 849EMBELLECEDOR DE CUARTO Y PUERTA DE TANQUE                                                                          
+4J 850EMBELLECEDOR TRASERO                                                                                         
+4J 851ASIENTO DELANTERO IZQUIERDO                                                                                        
+4J 852ASIENTO DELANTERO DERECHO                                                                                  
+4J 853ASIENTO TRASERO                                                                                  
+4J 854CINTURON DE SEGURIDAD DELANTERO                                                                                
+4J 855CINTURON DE SEGURIDAD TRASERO                                                                                  
+4J 856EVALUACIÓN DE CINTURON DE SEGURIDAD                                                                                
+4J 857EMBELLECEDOR INTERIOR                                                                                    
+4J 858UNIDADES DE CONTROL INTERIOR                                                                           
+4J 859COJIN DE ASIENTO IZQUIERDO                                                                            
+4J 860RESPALDO IZQUIERDO                                                                                  
+4J 861COJIN DE ASIENTO DERECHO                                                                            
+4J 862RESPALDO DERECHO                                                                                 
+4J 864CINTURON DE SEGURIDAD DELANTERO DERECHO                                                                            
+4J 865CINTURON DE SEGURIDAD IZQUIERDO                                                                                      
+4J 866CINTURON DE SEGURIDAD DERECHO                                                                                   
+4J 880RECUPERACIÓN DTC                                                                                      
+4J 881REPROGRAMACION                                                                                 
+4J 890EVALUACIÓN DE MANEJO (CUERPO)                                                                                   
+4J 900AJUSTE DE COLOR                                                                              
+4J 910CUERPO SUPERIOR                                                                                          
+4J 911CAMPANA Y CUBIERTA                                                                                   
+4J 912GUARDABARRO IZQUIERDO FRONTAL                                                                                
+4J 913FALDON/CUBIERTA DE PARAGOLPE                                                                       
+4J 914PUERTA FRONTAL IZQUIERDA                                                                                  
+4J 915PUERTA TRASERA IZQUIERDA                                                                                  
+4J 916CUARTO PANEL LATERAL IZQUIERDO                                                                      
+4J 917PUERTA DE BAUL                                                                                    
+4J 918FALDON TRASERO/CUBIERTA DE PARAGOLPE                                                                           
+4J 919GUARDABARRO DERECHO FRONTAL                                                                                  
+4J 920PUERTA FRONTAL DERECHA                                                                                
+4J 921PUERTA TRASERA DERECHA                                                                                   
+4J 922CUARTO PANEL LATERAL DERECHO                                                                      
+4J 923PARAGOLPE FRONTAL                                                                                
+4J 924PARAGOLPE TRASERO                                                                                       
+4J 925REJILLA DE PANEL DELANTERA                                                                           
+4J 927GUARDABARRO IZQUIERDO TRASERO                                                                                 
+4J 928 GUARDABARRO DERECHO TRASERO                                                                                  
+4J 929CUERPO INFERIOR IZQUIERDO                                                                                  
+4J 930PANEL LATERAL IZQUIERDO TOTAL                                                                             
+4J 933PANEL LATERAL DERECHO TOTAL                                                                      
+4J 939CUERPO INFERIOR DERECHO                                                                                   
+4J 990EVALUACIÓN DE MANEJO (PINTURA)                                                                             

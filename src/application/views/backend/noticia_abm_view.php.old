@@ -1,0 +1,187 @@
+
+<div id="tabs">
+		<ul>
+			<li class="boton-tab"><a href="#tabs-1" id="principal"><?=lang('principal');?></a></li>
+		</ul>
+		<div id="tabs-1">
+		<?php
+				$this->load->view( 'backend/esqueleto_botones_view' );
+		?>
+		<form  autocomplete="off" enctype="multipart/form-data" method="post" action="<?php echo current_url();?>">
+			
+		<ul>	
+				<fieldset>
+				<legend><?=$this->marvin->mysql_field_to_human('noticia_id');?></legend>
+				<li class="unitx4">
+					<?php
+				$config	=	array(
+								'field_name'=>'noticia_field_titulo',
+								'field_req'=>FALSE,
+								'label_class'=>'unitx3 first', //first
+								'field_class'=>'',
+								'field_type'=>'text',
+								
+								);
+							echo $this->marvin->print_html_input($config)
+				?>
+				</li>
+				<li class="unitx4">
+					<?php
+					$config	=	array(
+							'field_name'=>'noticia_field_fecha',
+							'field_req'=>FALSE,
+							'label_class'=>'unitx2 first', //first
+							'field_class'=>'',
+							);
+						echo $this->marvin->print_html_calendar($config)
+					?>
+					
+					<?php
+					$config	=	array(
+						'field_name'=>'backend_estado_id',
+						'field_req'=>TRUE,
+						'label_class'=>'unitx2',
+						'field_class'=>'',
+						'field_type'=>'text',
+						'field_options'=>$backend_estado_id
+					);
+					echo $this->marvin->print_html_select($config)
+				?>
+					
+				</li>
+				<li class="unitx8">
+						<?php
+						$config	=	array(
+						'field_name'=>'noticia_field_copete',
+						'field_req'=>TRUE,
+						'label_class'=>'unitx8 first',
+						'field_class'=>'',
+						'textarea_rows'=>4,
+						'textarea_html'=>TRUE
+					);
+					echo $this->marvin->print_html_textarea($config)
+					?>
+				</li>
+
+					<li class="unitx8">
+						<?php
+						$config	=	array(
+						'field_name'=>'noticia_field_desarrollo',
+						'field_req'=>TRUE,
+						'label_class'=>'unitx8 first',
+						'field_class'=>'',
+						'textarea_rows'=>4,
+						'textarea_html'=>TRUE
+					);
+					echo $this->marvin->print_html_textarea($config)
+					?>
+				</li>
+
+				
+
+				<li class="unitx4">
+				
+				<?php
+					$config	=	array(
+						'field_name'=>'noticia_seccion_id',
+						'field_req'=>TRUE,
+						'label_class'=>'unitx2 first',
+						'field_class'=>'',
+						'field_type'=>'text',
+						'field_options'=>$noticia_seccion_id
+					);
+					echo $this->marvin->print_html_select($config)
+				?>
+
+		</li>
+		</fieldset>
+		
+		<fieldset>
+				<legend><?=lang('imagenes');?></legend>
+				<?
+				if(isset($noticia_imagen) && count($noticia_imagen)>0){
+				
+				?>
+				<li class="unitx8">
+					
+						<!-- Sort -->
+						<div class="t-center">
+							<ul class="ui-sortable" id="sortable">
+								<?
+								while(list($id,$imagen) = each($noticia_imagen)){
+								?>
+								<li id="<?=$imagen['id'];?>" class="ui-state-default">
+										<div class="imagen">
+											<img src="<?=$this->config->item('base_url');?>public/uploads/images/<?=$imagen['noticia_imagen_field_archivo'] . '_bo' . $imagen['noticia_imagen_field_extension'];?>" alt="<?=$imagen['noticia_imagen_field_copete'];?>">
+										</div>
+										<div class="descripcion t-center">
+											<strong><span id="_span_imagen_titulo<?=$imagen['id'];?>"><?=$imagen['noticia_imagen_field_titulo'];?></span></strong><br />
+											<span id="_span_imagen_copete<?=$imagen['id'];?>"><?=$imagen['noticia_imagen_field_copete'];?></span>
+											<input type="hidden" id="_imagen_titulo<?=$imagen['id'];?>" value="<?=$imagen['noticia_imagen_field_titulo'];?>">
+											<input type="hidden" id="_imagen_copete<?=$imagen['id'];?>" value="<?=$imagen['noticia_imagen_field_copete'];?>">
+											<input type="hidden" id="_imagen_url<?=$imagen['id'];?>" value="<?=$this->config->item('base_url');?>public/uploads/images/<?=$imagen['noticia_imagen_field_archivo'] . '_bo' . $imagen['noticia_imagen_field_extension'];?>">
+										</div>									
+										<div class="acciones">
+											<div class="f-right">
+												<!--a href="#" rel="prettyPhoto[gallery]"><img src="<?=$this->config->item('base_url');?>public/images/icons/zoom_in.png"></a-->
+												<?if ($this->backend->_permiso('edit')){?>
+												<a href="#" class="modalInput actualizarDescripcion" rel="#prompt" id="<?=$imagen['id'];?>"><img src="<?=$this->config->item('base_url');?>public/images/icons/page_white_edit.png"></a>
+												<?}?>
+											</div>
+											<div class="f-left">
+											<?if ($this->backend->_permiso('del')){?>
+												<a href="#" class="modalInput eliminarAdjunto" rel="#eliminarAdjunto" id="<?=$imagen['id'];?>"><img src="<?=$this->config->item('base_url');?>public/images/icons/delete.png"></a>
+											<?}?>
+											</div>
+										</div>
+									</li>
+									<?
+									}//while(list($id,$imagen) = each($noticia_imagen)){
+									?>
+									
+							</ul>
+						</div>
+						<script type="text/javascript">
+							$(document).ready(function() {
+								<!-- sort -->
+								$("#sortable").sortable({
+									placeholder: 'ui-state-highlight'
+								});
+								$("#sortable").bind('sortupdate', function() {
+									$.ajax({
+											beforeSend: function(objeto){
+												$('#_ajax_loading').show();
+											},
+											type: "POST",
+											url: "<?=$abm_url;?>/ordenar_imagenes/<?=set_value('id');?>",
+											data: "_noticia_imagen_orden="+$('#sortable').sortable('toArray'),
+											success: function(datos){
+												$('#_ajax_loading').hide();
+											}
+									});
+								});
+								
+								<!-- sort -->
+							 });
+						</script>
+						<!-- Sort -->
+					
+				</li>
+				<?
+				} //if(isset($imagenes) && count($imagenes)>0){
+				?>
+				<li class="unitx8 both">
+					<label><?=lang('ingresar_imagen')?>
+					<input type="file" name="noticia_imagen" size="20" /></label>
+				</li>
+
+				
+				</ul>
+			
+			
+			<?php
+				$this->load->view( 'backend/_inc_abm_submit_view' );
+			?>
+</form>
+</div>
+</div>
