@@ -1,0 +1,31 @@
+<form action="" method="post" id=" " name=" ">
+
+				<label class="contactoLabel">Nombre y Apellido*</label>
+				<input class="formInputText {if $SHOW_ERROR_CONTACTO_NOMBRE}error{/if}" type="text" name="contacto_nombre" id="contacto_nombre" value="{$CONTACTO_NOMBRE}"/><br/>
+
+				<label class="contactoLabel">Localidad*</label>
+				<input class="formInputText {if $SHOW_ERROR_CONTACTO_LOCALIDAD}error{/if}" type="text" name="contacto_localidad" id="contacto_localidad" value="{$CONTACTO_LOCALIDAD}"/><br/>
+
+				<label class="contactoLabel">Provincia*</label>
+				<select class="formSelect" name="contacto_id_provincia" id="contacto_id_provincia">
+					{html_options values=$provincia_id output=$provincia_options selected=$CONTACTO_ID_PROVINCIA}
+				</select><br/>
+
+				<label class="contactoLabel">Telefono*</label>
+				<input class="formInputText {if $SHOW_ERROR_CONTACTO_TELEFONO}error{/if}" type="text" name="contacto_telefono" id="contacto_telefono" value="{$CONTACTO_TELEFONO}"><br/>
+				
+				<label class="contactoLabel">E-Mail*</label>
+				<input class="formInputText {if $SHOW_ERROR_CONTACTO_EMAIL}error{/if}" type="text" name="contacto_email" id="contacto_email" value="{$CONTACTO_EMAIL}" /><br/>
+				
+				<label class="contactoLabel">Comentarios</label>
+				<textarea name="contacto_comentarios" id="textarea" >{$CONTACTO_COMENTARIOS}</textarea><br/>					
+
+				<label class="contactoLabel">Especifique en que horario desea que lo contactemos:</label>
+				<input type="radio" name="horario" id="manana" value="mañana" {if $HORARIO=='mañana'}checked{/if} /><label class="radioLabel">Mañana</label>
+				<input type="radio" name="horario" id="tarde" value="tarde" {if $HORARIO=='tarde'}checked{/if}/><label class="radioLabel">Tarde</label>
+				<input type="radio" name="horario" id="noche" value="noche" {if $HORARIO=='noche'}checked{/if}/><label class="radioLabel">Noche</label>
+
+				<div class="form_botones">
+					<input class="formInputButton" type="submit" name="contactar" value="ENVIAR" />
+				</div>
+				</form>
